@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ipmsteven/react_chord/issues"
   },
-  "homepage": "https://github.com/ipmsteven/react_chord#readme"
+  "homepage": "https://github.com/ipmsteven/react_chord#readme",
+  "dependencies": {
+    "webpack": "^1.13.3"
+  }
 }
